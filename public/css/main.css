@@ -15,4 +15,16 @@ h1, h2, h3, h4, h5, h6 {
   color: #ec8e08;
   font-family: colossalis, Impact, sans-seriff; }
 
+.logo h2 {
+  display: inline-block;
+  font-size: 3em;
+  padding-right: 8px; }
+
+.logo h3 {
+  border-left: 2px solid #a1a1a1;
+  display: inline-block;
+  color: #a1a1a1;
+  font: 1.75em "Trebuchet MS", Tahoma, Arial, sans-seriff;
+  padding-left: 8px; }
+
 /*# sourceMappingURL=main.css.map */
