@@ -3,7 +3,9 @@
   src: url("../fonts/Colossalis Bold.ttf"); }
 
 body {
-  border-top: 8px solid #ec8e08; }
+  border-top: 8px solid #ec8e08;
+  color: #888;
+  font-family: "Trebuchet MS", Tahoma, Arial, sans-seriff; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #ec8e08;
