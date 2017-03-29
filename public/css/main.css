@@ -16,6 +16,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: colossalis, Impact, sans-seriff; }
 
 /********** LOGO ************/
+.logo {
+  float: left;
+  max-width: 50%; }
+
 .logo h2 {
   display: inline-block;
   font-size: 3em;
@@ -31,6 +35,9 @@ h1, h2, h3, h4, h5, h6 {
   top: -.2em; }
 
 /*********** SOCIAL MEDIA **********/
+.social {
+  float: right; }
+
 .social ul {
   list-style-type: none;
   padding-left: 0;
