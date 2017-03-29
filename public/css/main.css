@@ -30,4 +30,21 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   top: -.2em; }
 
+/*********** SOCIAL MEDIA **********/
+.social ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: 0; }
+
+.social ul li {
+  display: inline-block; }
+
+.social p {
+  margin-bottom: 0; }
+
+.social a i {
+  color: #a1a1a1;
+  font-size: 2.5em;
+  text-decoration: none; }
+
 /*# sourceMappingURL=main.css.map */
