@@ -85,3 +85,18 @@ nav {
   margin: 0;
   list-style: none;
 }
+.main-nav li {
+  float: left;
+  position: relative;
+  width: 100px;
+  height: 45px;
+}
+
+.main-nav li a {
+  position: absolute;
+  background-color: red;
+  color: #a1a1a1;
+  text-decoration: none;
+  width: 100px;
+  height: 50px;
+}
