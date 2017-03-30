@@ -20,6 +20,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   font-size: 3em;
   padding-right: 8px;
+  margin-top: 0;
 }
 .logo h3 {
   border-left: 2px solid #a1a1a1;
@@ -34,6 +35,7 @@ h1, h2, h3, h4, h5, h6 {
 /*********** SOCIAL MEDIA **********/
 .social {
   float: right;
+  text-align: right;
 }
 .social ul {
   list-style-type: none;
