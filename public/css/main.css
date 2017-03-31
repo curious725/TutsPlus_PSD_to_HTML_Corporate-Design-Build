@@ -131,4 +131,18 @@ nav {
   margin-top: 20px;
   position: relative; }
 
+.slider-prev, .slider-next {
+  color: #444;
+  font-size: 30px;
+  text-decoration: none;
+  opacity: .5;
+  position: absolute;
+  top: 115px; }
+
+.slider-prev {
+  left: 10px; }
+
+.slider-next {
+  right: 10px; }
+
 /*# sourceMappingURL=main.css.map */
