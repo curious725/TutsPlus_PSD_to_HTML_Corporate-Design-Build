@@ -179,10 +179,14 @@ nav {
   display: inline-block;
   padding: 12px;
   width: 280px;
-  height: 40px; }
+  height: 40px;
+  transition: background-color .5s; }
 
 .slider-button span {
   font-size: 14px;
   font-weight: 700; }
+
+.slider-button:hover {
+  background-color: #9cdf59; }
 
 /*# sourceMappingURL=main.css.map */
