@@ -123,4 +123,12 @@ nav {
   color: #a1a1a1;
   text-decoration: none; }
 
+/***************** CONTENT SLIDER *************/
+.slider {
+  background: #eee url("../img/slider-bg.png") no-repeat;
+  width: 960px;
+  height: 260px;
+  margin-top: 20px;
+  position: relative; }
+
 /*# sourceMappingURL=main.css.map */
