@@ -108,4 +108,8 @@ nav {
 .main-nav li a:hover {
   background-color: #eee; }
 
+.search {
+  color: #a1a1a1;
+  float: right; }
+
 /*# sourceMappingURL=main.css.map */
