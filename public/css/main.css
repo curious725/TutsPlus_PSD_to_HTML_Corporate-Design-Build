@@ -149,4 +149,14 @@ nav {
 .slider-next {
   right: 10px; }
 
+.slide-image {
+  position: absolute;
+  top: 15px;
+  left: 80px; }
+
+.slide-content {
+  width: 50%;
+  position: absolute;
+  right: 80px; }
+
 /*# sourceMappingURL=main.css.map */
